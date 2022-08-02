@@ -1,0 +1,9 @@
+,ATK,DEF,HP,CR,CD,ACC,RES,SPD
+ATK,None,0,0,1,1,0,-1,1
+DEF,0,None,1,1,1,0,1,1
+HP,0,1,None,1,1,0,1,1
+CR,1,1,1,None,1,0,-1,1
+CD,1,1,1,1,None,-1,-1,1
+ACC,0,0,0,0,-1,None,-1,1
+RES,-1,1,1,-1,-1,-1,None,1
+SPD,1,1,1,1,1,1,1,None
